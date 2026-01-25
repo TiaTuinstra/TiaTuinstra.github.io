@@ -6,20 +6,3 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 plugins:
   - jekyll-include-cache
-
-# Navigation bar
-navigation:
-  main:
-    - title: Home
-      url: /
-    - title: Projects
-      url: /projects/
-    - title: Get in Touch
-      url: /contact/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
