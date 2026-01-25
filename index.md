@@ -1,13 +1,10 @@
 ---
-layout: default
 title: Home
+layout: single
+author_profile: true
 ---
 
-## Hello, I’m Tia Tuinstra
+Hello! I’m **Tia Tuinstra**, a data scientist interested in AI and healthcare.
 
-I’m a data scientist interested in AI and healthcare.
+This site highlights selected projects and ways to get in touch.
 
-### About Me
-
-Short professional bio. Keep this concise and focused on what you build,
-research, or care about professionally.
