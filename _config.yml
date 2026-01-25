@@ -2,14 +2,24 @@ title: Tia Tuinstra
 description: Hi, I'm Tia! Welcome to my website.
 url: https://TiaTuinstra.github.io
 
-markdown: kramdown
-theme: null
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 
-# Navigation
-nav:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects/
-  - title: Get in Touch
-    url: /contact/
+plugins:
+  - jekyll-include-cache
+
+# Navigation bar
+navigation:
+  main:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: Get in Touch
+      url: /contact/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
