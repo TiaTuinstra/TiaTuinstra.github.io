@@ -6,6 +6,6 @@ permalink: /contact/
 
 ## Get in Touch
 
-- Email: [you@example.com](mailto:you@example.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](#)
+- Email: [tiatuinstra@gmail.com](mailto:tiatuinstra@gmail.com)
+- GitHub: [@TiaTuinstra](https://github.com/TiaTuinstra)
+- LinkedIn: [Tia Tuinstra](www.linkedin.com/in/tia-tuinstra-333716126)
