@@ -12,7 +12,7 @@ projects:
   - image_path: /assets/images/logan-voss-magenta.jpg
     title: "Language Model for Pediatric Therapy Documentation"
     excerpt: Fine-tuned opensource Large Language Model (LLM) on clinical data from KidsAbility for clinical documentation task."
-    url: https://github.com/yourusername/project2](https://rocketdiscoverycentre.ca/redefining-therapy-documentation-with-ai-enhancing-clinician-productivity/
+    url: https://rocketdiscoverycentre.ca/redefining-therapy-documentation-with-ai-enhancing-clinician-productivity/
 
   - image_path: /assets/images/logan-voss-yellow.jpg
     title: "Vector Symbolic Architecture Project"
