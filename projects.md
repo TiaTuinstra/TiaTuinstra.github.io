@@ -2,11 +2,7 @@
 title: Projects
 layout: single
 permalink: /projects/
----
 
-## Selected Research Projects
-
-{% include feature_row id="projects" type="left" %}
 projects:
   - image_path: /assets/images/logan-voss-blue.jpg
     title: "AI Solution for Pediatric Speech Therapy Documentation"
@@ -22,3 +18,9 @@ projects:
     title: "Vector Symbolic Architecture Project"
     excerpt: "BERT-based model pre-trained on Masked Language Modeling (MLM) task and fine-tuned on disease and mortality prediction tasks using the MIMIC-IV dataset. Custom structured embeddings based on SNOMED-CT medical ontology for improvement on out-of-distribution clinical concepts. Exposed frequency bias in learned unstructured embeddings, working with clinician collaborator."
     url: https://github.com/yourusername/project3
+
+---
+
+## Selected Research Projects
+
+{% include feature_row id="projects" type="left" %}
