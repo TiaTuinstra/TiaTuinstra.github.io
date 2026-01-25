@@ -17,7 +17,7 @@ projects:
   - image_path: /assets/images/logan-voss-yellow.jpg
     title: "Vector Symbolic Architecture Project"
     excerpt: "BERT-based model pre-trained on Masked Language Modeling (MLM) task and fine-tuned on disease and mortality prediction tasks using the MIMIC-IV dataset. Custom structured embeddings based on SNOMED-CT medical ontology for improvement on out-of-distribution clinical concepts. Exposed frequency bias in learned unstructured embeddings, working with clinician collaborator."
-    url: https://github.com/yourusername/project3
+    url: (https://proceedings.cmbes.ca/index.php/proceedings/article/view/1050
 
 ---
 
