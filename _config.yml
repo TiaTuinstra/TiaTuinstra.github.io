@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
 title: Tia Tuinstra
-description: Hi, I'm Tia! Welcome to my site.
+description: Hi, I'm Tia! Welcome to my website.
+url: https://TiaTuinstra.github.io
+
+markdown: kramdown
+theme: null
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Get in Touch
+    url: /contact/
